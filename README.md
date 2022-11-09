@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matthieu Colin
-- 👀 I’m interested in data in general: from business analysis to specific ML models.
+- 👀 I’m interested in data in general: from business analysis to specific ML models
 - 🌱 I’m currently learning how to build and deploy pipelines & models and how to write clean and easily replicated code
 - 💞️ I’m looking to collaborate on positive impact projects (Social, medical or environmental), Open Source preferred. (e.g. Data For Good)
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/matthieu-colin/)
